@@ -1,5 +1,5 @@
 # .gitignore
 
 /tests/test_files/config.py
-
+/terraform/lambda/config.py
 testo.txt
