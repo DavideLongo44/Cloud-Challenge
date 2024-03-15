@@ -1,3 +1,5 @@
 # .gitignore
 
 /tests/test_files/config.py
+
+testo.txt
