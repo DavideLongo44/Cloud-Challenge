@@ -1,6 +1,6 @@
 # provider AWS specifica la regione AWS da utilizzare
 provider "aws" {
-  region = "us-east-1"  # Set the appropriate AWS region
+  region = "eu-central-1"  # Set the appropriate AWS region
 }
 
 # Crea un ruolo IAM per le funzioni Lambda
